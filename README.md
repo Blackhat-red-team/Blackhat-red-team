@@ -1,5 +1,5 @@
 <div align="center">
-	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hello%2C+I%E2%80%99m+Ibrahimsaid!💻" /></h1>
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=337DFF&center=true&vCenter=true&width=440&lines=👋+Hello%2C+I%E2%80%99m+Ibrahimsaid!💻" /></h1>
   <br />
 	<h1 align="center">Hi 👋, welcome to my profile!</h1>
 # 💫 About Me:
