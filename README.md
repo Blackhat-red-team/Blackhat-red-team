@@ -2,7 +2,9 @@
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=337DFF&center=true&vCenter=true&width=440&lines=👋+Hello%2C+I%E2%80%99m+Ibrahimsaid!💻" /></h1>
   <br />
 	<h1 align="center">Hi 👋, welcome to my profile!</h1>
-# 💫 About Me:
+<img src="https://camo.githubusercontent.com/6ae73fcff02255c6d36bcb682be2a55a0258e11bacbb4c4618119f3322ff35ce/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d536f6674776172652d456e67696e656572696e672025323073747564656e742532303b70617373696f6e61746525323061626f75742064617461253230736369656e63652532303b312b25324225323079656172732532306f66253230636f64696e672532303b416c776179732532306c6561726e696e672532306e65772532307468696e677326666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d663735633765267643656e7465723d747275652670617573653d313030302673697a653d3232" data-canonical-src="https://readme-typing-svg.demolab.com/?lines=Software-Engineering %20student%20;passionate%20about Space%20science%20;1+%2B%20years%20of%20coding%20;Always%20learning%20new%20things&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=337DFF&amp;vCenter=true&amp;pause=1000&amp;size=22" style="max-width: 100%;">
+	
+	# 💫 About Me:
 Penetration test<br>Software Engineering <br>👨‍💻 Android app developer<br>🌍 @alx_africa #alxafrica #Cohort_13
 
 
