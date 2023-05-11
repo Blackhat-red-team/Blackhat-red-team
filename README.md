@@ -18,11 +18,11 @@ Penetration test<br>Software Engineering <br>👨‍💻 Android app developer<b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blackhat-red-team&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackhat-red-team&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github.com/BEPb/BEPb/raw/main/profile-3d-contrib/profile-green-animate.svg" align="left" style="max-width: 100%;">
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Blackhat-red-team&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+<a href="https://github.com/Blackhat-red-team/github-readme-activity-graph"><img alt="Blackhat-red-team Activity Graph" src="https://camo.githubusercontent.com/46b39dede4da3ada2bd57979c34c9baabd232b7bf5526813b08b62d89f95edf4/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170682f3f757365726e616d653d73616c6968616272696b2662675f636f6c6f723d31463232324526636f6c6f723d463844383636266c696e653d46383544374626706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph/?username=Blackhat-red-team&amp;bg_color=1F222E&amp;color=2E3AF2&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;"></a>
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Ibrahim_pentest)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
