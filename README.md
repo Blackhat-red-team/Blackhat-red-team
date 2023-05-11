@@ -1,3 +1,5 @@
+<img src="https://camo.githubusercontent.com/33b3d3661a04af53a2d0252fbf7474898752d410b2091747197ddfc24fabf271/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f6c696e65733d486579212b596f752b4172652b57656c636f6d652b546f2b4d792b50726f66696c653b4d792b4e616d652b49732b4c4f524457494c4c3b492b416d2b50617373696f6e6174652b41626f75742b436f64696e673b492b4c6561726e2b42792b446f696e67" alt="TypingSVG" data-canonical-src="https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Ibrahimsaid;I+Am+Passionate+About+Coding;I+Learn+By+Doing" style="max-width: 100%;">
+
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=337DFF&center=true&vCenter=true&width=440&lines=👋+Hello%2C+I%E2%80%99m+Ibrahimsaid!💻" /></h1>
   <br />
