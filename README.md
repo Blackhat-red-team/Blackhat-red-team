@@ -34,7 +34,8 @@ Penetration test<br>Software Engineering <br>👨‍💻 Android app developer<b
 ![](https://github-contributor-stats.vercel.app/api?username=Blackhat-red-team&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://camo.githubusercontent.com/bbe13f3004e2eb0964f3957b6581b5d01acbac30e25bf6c52cc5ebe7a80d4170/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" style="max-width: 100%;">
+<img src="https://rm.up.railway.app/" width="512px"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Blackhat-red-team&icon=0&color=0)](https://visitcount.itsvg.in)
 
