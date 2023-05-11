@@ -1,3 +1,7 @@
+<div align="center">
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hello%2C+I%E2%80%99m+Ibrahimsaid!💻" /></h1>
+  <br />
+	<h1 align="center">Hi 👋, welcome to my profile!</h1>
 # 💫 About Me:
 Penetration test<br>Software Engineering <br>👨‍💻 Android app developer<br>🌍 @alx_africa #alxafrica #Cohort_13
 
@@ -24,6 +28,8 @@ Penetration test<br>Software Engineering <br>👨‍💻 Android app developer<b
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Blackhat-red-team&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Blackhat-red-team&icon=0&color=0)](https://visitcount.itsvg.in)
