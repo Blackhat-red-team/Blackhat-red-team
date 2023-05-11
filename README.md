@@ -18,6 +18,7 @@ Penetration test<br>Software Engineering <br>👨‍💻 Android app developer<b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blackhat-red-team&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackhat-red-team&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://github.com/BEPb/BEPb/raw/main/profile-3d-contrib/profile-green-animate.svg" align="left" style="max-width: 100%;">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Blackhat-red-team&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
@@ -31,8 +32,7 @@ Penetration test<br>Software Engineering <br>👨‍💻 Android app developer<b
 ![](https://github-contributor-stats.vercel.app/api?username=Blackhat-red-team&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
+<img src="https://camo.githubusercontent.com/bbe13f3004e2eb0964f3957b6581b5d01acbac30e25bf6c52cc5ebe7a80d4170/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" style="max-width: 100%;">
 ---
 [![](https://visitcount.itsvg.in/api?id=Blackhat-red-team&icon=0&color=0)](https://visitcount.itsvg.in)
 
